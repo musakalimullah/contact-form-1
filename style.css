@@ -1,0 +1,74 @@
+*{margin:0;padding: 0;outline: 0;}
+
+a{
+    color: #0b8254cf;
+}
+.main-contact {
+    width: 520px;
+    /* height: 700px; */
+    margin: 80px auto;
+    background-color: aquamarine;
+    padding: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contact {
+    background: #12b4ea79;
+    padding: 40px;
+    box-shadow: 0px 2px 6px #777;
+}
+.contact h2 {
+    color: #000;
+    /* text-align: center; */
+    font-size: 30px;
+    font-family: arial;
+    font-weight: lighter;
+    border-bottom: 3px solid green;
+    margin: 0 0 15px 180px;
+    display: inline-block;
+}
+
+.box .name .first {
+    padding: 15px 9px 15px 56px;
+    display: inline-block;
+}
+.box .email .second {
+    padding: 15px 12px 15px 25px;
+    display: inline-block;
+}
+.box .password .third {
+    padding: 15px 14px 15px 55px;
+    display: inline-block;
+}
+ .box .repassword .four {
+     padding: 15px 11px 15px 0px;
+     display: inline-block;
+}
+.box .same {
+    display: inline-block;
+    padding: 12px 104px 12px 10px;
+    border-radius: 4px;
+    border: 1px solid #d0c6c6;
+}
+.box .checkbox {
+    text-align: center;
+    margin: 25px 0px 25px 115px;
+}
+.box .checkbox .privacy{
+
+}
+.box .btn {
+    margin: 0 auto;
+    display: block;
+    padding: 9px 39px;
+    font-size: 20px;
+    border-radius: 5px;
+    border: none;
+    background: #0c8465;
+    color: #fff;
+    cursor: pointer;
+}
+.main-contact p {
+    text-align: center;
+    font-size: 18px;
+    padding: 7px;
+}
